@@ -1,0 +1,17 @@
+<resources>
+    <!-- Your custom colors -->
+    <color name="monkhex_background">#0B0F1A</color>
+    <color name="monkhex_card">#121826</color>
+    <color name="monkhex_elevated">#1A2233</color>
+    <color name="monkhex_gold">#F5B301</color>
+    <color name="monkhex_cyan">#00D1FF</color>
+
+    <!-- Required default colors (ADD THESE) -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4370014322",
+    "project_id": "monkhex",
+    "storage_bucket": "monkhex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4370014322:android:da3be9a87b2e71d58c22eb",
+        "android_client_info": {
+          "package_name": "com.minot.monkhex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxu25ptsQvK6mqj-wXUnbjqHUX7OE5ny0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
