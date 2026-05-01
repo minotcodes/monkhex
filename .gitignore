@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.kotlin_module
+
+# Firebase functions build
+firebase/functions/lib/
+firebase/functions/node_modules/
